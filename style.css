@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+html, textarea, select, input {
+    font-family: 'Work Sans', sans-serif;
+}
+
+body {
+    background-color: rgb(255, 242, 122);
+    
+}
+
+h1 {
+    padding: 10px;
+}
+
+form > * {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    font-size: large;
+    border: 2px solid rgb(255, 134, 35);
+}
+
+.beach-image {
+    width: 700px;
+    border: 10px solid white;
+}
+
+
